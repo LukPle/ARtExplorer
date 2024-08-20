@@ -56,7 +56,7 @@ Before you can start with development, ensure you have the following installed:
 Clone the Repository:
 
 ```sh
-git clone https://github.com/BarbaraSe/ARtExplorer.git
+git clone https://github.com/LukPle/ARtExplorer.git
 cd ARtExplorer
 ```
 <br>
