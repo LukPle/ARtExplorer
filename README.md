@@ -1,13 +1,6 @@
 # ARtExplorer
-**Immerse yourself in a new way of exploring art interactively**<br>
+**Immerse Yourself in a New Way of Exploring Art Interactively**<br>
 An augmented reality application for the Microsoft HoloLens®, developed using the Unity Game Engine<br>
-<br>
-
-## Table of Contents
-- [About](#about)
-- [Contributors](#contributors)
-- [Installation](#installation)
-- [Run on Headset](#run-on-headset)
 <br>
 
 ## About
